@@ -1,0 +1,9 @@
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Services.Abstract.pdb
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Models.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\bin\Debug\PizzaApp.Models.pdb
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.csproj.CopyComplete
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Services.Abstract\obj\Debug\PizzaApp.Services.Abstract.pdb
