@@ -10,7 +10,9 @@ namespace PizzaApp.Services.Abstract
     {
         void GetUserParameters(string name, string login, string password, string repeatedPassword, string phoneNumber, string address);
 
-        void CheckUserParameters();
+        bool CheckUserParameters();
+
+        void InsertIntoDatabase();
 
         void GetMessage(string phoneNumber);
     }
