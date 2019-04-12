@@ -1,0 +1,11 @@
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Models\bin\Debug\PizzaApp.Models.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Models\bin\Debug\PizzaApp.Models.pdb
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Models\obj\Debug\PizzaApp.Models.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Models\obj\Debug\PizzaApp.Models.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Models\obj\Debug\PizzaApp.Models.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Models\obj\Debug\PizzaApp.Models.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Models\bin\Debug\PizzaApp.Models.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Models\bin\Debug\PizzaApp.Models.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Models\obj\Debug\PizzaApp.Models.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Models\obj\Debug\PizzaApp.Models.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Models\obj\Debug\PizzaApp.Models.pdb

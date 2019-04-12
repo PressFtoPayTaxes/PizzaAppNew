@@ -1,0 +1,49 @@
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Console.exe.config
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Console.exe
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Console.pdb
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Models.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Services.Abstract.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Services.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\Twilio.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\Newtonsoft.Json.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Models.pdb
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Services.Abstract.pdb
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Services.pdb
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\PizzaApp.Services.dll.config
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\Twilio.xml
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\Newtonsoft.Json.xml
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\obj\Debug\PizzaApp.Console.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\obj\Debug\PizzaApp.Console.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\obj\Debug\PizzaApp.Console.csproj.CopyComplete
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\obj\Debug\PizzaApp.Console.exe
+c:\users\скоропадиг.corp\source\repos\PizzaApp.Console\PizzaApp.Console\obj\Debug\PizzaApp.Console.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Console.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\obj\Debug\PizzaApp.Console.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\obj\Debug\PizzaApp.Console.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaDatabase.mdf
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaDatabase_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Console.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Console.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.DataAccess.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Models.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Services.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\Twilio.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.DataAccess.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Models.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Services.Abstract.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\PizzaApp.Services.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\bin\Debug\Twilio.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.Console\obj\Debug\PizzaApp.Console.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaDatabase.mdf
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaDatabase_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.DataAccess.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.DataAccess.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.Models.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.Services.Abstract.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.Models.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\bin\Debug\PizzaApp.Services.Abstract.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\PizzaApp\PizzaApp.DataAccess\obj\Debug\PizzaApp.DataAccess.pdb
